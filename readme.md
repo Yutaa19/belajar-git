@@ -1,6 +1,1 @@
 # INI ADALAH KODE PERTAMA untuk member platinum
-
-
-
-
-# PERUBAHAN PADA LINE MASTER
